@@ -169,10 +169,10 @@ export class AppComponent {
         stringToSend = "DR";
         break;
       case 4:
-        stringToSend = "ML";
+        stringToSend = "SL";
         break;
       case 5:
-        stringToSend = "MR";
+        stringToSend = "SR";
         break;
       default:
         stringToSend = "ignore";
